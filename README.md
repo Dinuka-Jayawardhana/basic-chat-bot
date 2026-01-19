@@ -69,3 +69,9 @@ basic-chat-ui/
 -   **ChatbotIcon.jsx**: A versatile icon component used in headers and message bubbles.
 -   **App.css**: Contains all the design tokens, animations, and responsive layout rules.
 
+
+<img width="1513" height="897" alt="Screenshot (726)" src="https://github.com/user-attachments/assets/0849ec4b-7fcd-4512-ba30-c6af05f297c6" />
+
+<img width="1506" height="907" alt="Screenshot (727)" src="https://github.com/user-attachments/assets/a9ead0fa-5613-404f-a033-1e1d2f4debab" />
+
+
